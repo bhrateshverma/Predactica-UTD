@@ -4,7 +4,7 @@ Digital Consulting Project - POCs for [Predactica](https://www.predactica.com)'s
 
 ## Getting Started
 
-### Pre-Requistes
+### Pre-Requisites
 
 You will need to have [Python 3](https://www.python.org) installed in your local system.
 
